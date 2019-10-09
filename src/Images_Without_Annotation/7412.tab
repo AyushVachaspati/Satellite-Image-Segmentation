@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "7412.jpg"
+  Type "RASTER"
+  (76.815333,28.448764) (186,34) Label "Pt 1",
+  (76.828719,28.448764) (4613,34) Label "Pt 2",
+  (76.828719,28.439107) (4613,3667) Label "Pt 3",
+  (76.815333,28.439107) (186,3667) Label "Pt 4"
+  CoordSys Earth Projection 1, 104
+  Units "degree"
